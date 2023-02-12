@@ -29,7 +29,7 @@
 ![INSOMNIA](https://img.shields.io/badge/insomnia-6153C2?style=for-the-badge&logo=insomnia&logoColor=black)&nbsp;
 ![VSCODE](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)&nbsp;
 ![ECLIPSE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)&nbsp;
-
+![KAFKA](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=Apache%20Kafka&logoColor=white)&nbsp;
 
 
 
